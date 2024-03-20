@@ -8,3 +8,5 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
+
+include ':modules:icl-baritone'
