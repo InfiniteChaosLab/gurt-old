@@ -1,3 +1,4 @@
 [submodule "modules/icl-baritone"]
 	path = modules/icl-baritone
 	url = https://github.com/InfiniteChaosLab/icl-baritone.git
+	branch = 1.20.4
